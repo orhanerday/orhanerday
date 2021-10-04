@@ -5,9 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on CIFTCILER ELEKTRIK
-- 🌱 I’m currently learning Laravel
-- 🤔 I’m looking for help with Laravel
+- 🔭 I’m currently working on CMS YAZILIM
 - 💬 Ask me about Laravel Education
 - 📫 How to reach me: orhanerday@gmail.com
 
