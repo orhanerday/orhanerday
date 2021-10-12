@@ -9,4 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Laravel Education
 - 📫 How to reach me: orhanerday@gmail.com
 
+
+
+
 ### Black Lives Matter. Support the [Equal Justice Initiative](https://support.eji.org/give/153413/#!/donation/checkout) 
