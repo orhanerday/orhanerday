@@ -3,10 +3,10 @@
 <!--
 **orhanerday/orhanerday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 -->
-- 🔭 I’m currently working on [Orion Innovation](https://orioninc.com)
-- 💬 Ask me about Laravel Education
+- 🔭 Software Engineer at [Orion Innovation](https://orioninc.com) | [Kandy](https://kandy.io)
+- 🤖 Creator of orhanerday/open-ai 
 - 📫 How to reach me: orhanerday@gmail.com
 
 You can
