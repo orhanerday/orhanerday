@@ -5,7 +5,7 @@
 
 
 -->
-- 🔭 Software Engineer at [Orion Innovation](https://orioninc.com) | [Kandy](https://kandy.io)
+- 🔭 Software Engineer at [Orion Innovation](https://orioninc.com) | [Honeywell](https://honeywell.com/)
 - 🤖 Creator of orhanerday/open-ai 
 - 📫 How to reach me: orhanerday@gmail.com
 
