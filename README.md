@@ -5,7 +5,7 @@
 
 
 -->
-- 🔭 Software Engineer at [Orion Innovation](https://orioninc.com) | [Honeywell](https://honeywell.com/) | [Bumble](bumble.com)
+- 🔭 Software Engineer at [Orion Innovation](https://orioninc.com) | [Honeywell](https://honeywell.com/) | [Bumble](https://bumble.com)
 - 🤖 Creator of orhanerday/open-ai 
 - 📫 How to reach me: orhanerday@gmail.com
 
